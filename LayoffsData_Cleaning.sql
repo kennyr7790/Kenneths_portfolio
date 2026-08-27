@@ -6,7 +6,7 @@ FROM layoffs;
 -- 1 Remove Duplicates
 -- 2 Standarize The Data
 -- 3 Null Values or Blank Values
--- 4 Rove Any Columns
+-- 4 Remove Any Columns
 
 
 CREATE TABLE layoff_Staging
